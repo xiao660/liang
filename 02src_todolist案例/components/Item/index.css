@@ -1,0 +1,9 @@
+.todo-main li .btn {
+  width: 56px;
+  margin-top: 6px;
+  float: right;
+}
+
+.todo-main li:hover {
+  background-color: gainsboro;
+}

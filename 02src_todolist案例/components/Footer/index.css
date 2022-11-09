@@ -1,0 +1,12 @@
+.todo-footer {
+  display: grid;
+  grid-template-columns: 46px 145px 200px;
+  grid-template-rows: 1fr;
+  justify-content: center;
+  align-items: center;
+  line-height: 30px;
+}
+
+.todo-footer label {
+  margin-left: 20px;
+}

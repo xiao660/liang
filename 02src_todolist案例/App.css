@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  /* text-decoration: none;
+	 */
+  list-style: none;
+}
+
+.btn {
+  border: #fff;
+  background-color: deeppink;
+  color: #fff;
+  border-radius: 6px;
+}
+
+.todo-container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.todo-wrap {
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+
+.btn-danger:hover {
+  color: #fff;
+  background-color: #bd362f;
+}

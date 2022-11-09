@@ -1,0 +1,15 @@
+.todo-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-header input {
+  border: 1px solid #ccc;
+  width: 370px;
+  height: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  outline: none;
+}

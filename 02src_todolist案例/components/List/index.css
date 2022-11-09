@@ -1,0 +1,19 @@
+.todo-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.todo-main li {
+  display: block;
+  border: 1px solid #ccc;
+  width: 370px;
+  height: 30px;
+  line-height: 30px;
+}
+
+.todo-main li label {
+  margin-left: 10px;
+}
